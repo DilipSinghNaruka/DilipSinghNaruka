@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React, Java, C++, Data Structures & Algorithms**
 
-- 📫 How to reach me **dilipsinghnaruka03@gmail.com**
+- 📫 How to reach me **dsnaruka995082@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
